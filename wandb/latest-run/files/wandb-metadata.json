@@ -1,0 +1,87 @@
+{
+    "os": "Linux-5.19.0-45-generic-x86_64-with-glibc2.35",
+    "python": "3.11.7",
+    "heartbeatAt": "2024-10-21T18:46:29.109728",
+    "startedAt": "2024-10-21T18:46:28.681099",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "starter-jvsc-f5ace780-f258-490f-833e-bf448a993322e8b9a62e-9af3-4abe-aec5-5e50aafa3363.ipynb",
+    "codePathLocal": null,
+    "root": "/notebooks",
+    "git": {
+        "remote": "https://GhaouiYoussef:@github.com/GhaouiYoussef/ArkaniPOC.git",
+        "commit": "e2e872cf20602db16de96ec958526eae6ec9ca7a"
+    },
+    "email": "youssef.ghaoui@ensi-uma.tn",
+    "host": "nebhwxz3pc",
+    "username": "root",
+    "executable": "/usr/local/bin/python3",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3202.0570000000002,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3202.057,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3202.057,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3202.057,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3202.057,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3202.057,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3202.057,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3202.057,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3202.057,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 244.23077011108398,
+            "used": 147.19731521606445
+        }
+    },
+    "gpu": "NVIDIA RTX A6000",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA RTX A6000",
+            "memory_total": 51527024640
+        }
+    ],
+    "memory": {
+        "total": 44.08214569091797
+    }
+}
